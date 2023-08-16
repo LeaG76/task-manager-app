@@ -7,7 +7,7 @@
 ***
 
 <p align="center">
-  <h1 align="center">Task Manager App</h1>
+  <h1 align="center">RemindMe App</h1>
   <p align="center">...</p>
 </p>
 
